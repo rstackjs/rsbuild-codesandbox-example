@@ -2,6 +2,7 @@
   "name": "rsbuild-codesandbox-example",
   "private": true,
   "version": "1.0.0",
+  "type": "module",
   "scripts": {
     "dev": "rsbuild",
     "build": "rsbuild build",
@@ -13,7 +14,7 @@
     "react-dom": "^19.2.4"
   },
   "devDependencies": {
-    "@rsbuild/core": "^1.7.3",
-    "@rsbuild/plugin-react": "^1.4.5"
+    "@rsbuild/core": "^2.0.3",
+    "@rsbuild/plugin-react": "^2.0.0"
   }
 }
