@@ -1,2 +1,13 @@
 allowBuilds:
   core-js: false
+
+minimumReleaseAgeExclude:
+  - '@rsbuild/*'
+  - '@rslib/*'
+  - '@rslint/*'
+  - '@rspack/*'
+  - '@rspress/*'
+  - '@rstackjs/*'
+  - '@rstest/*'
+  - 'rsbuild-plugin-*'
+  - rstack
