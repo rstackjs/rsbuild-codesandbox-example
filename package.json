@@ -8,13 +8,13 @@
     "build": "rsbuild build",
     "preview": "rsbuild preview"
   },
-  "packageManager": "pnpm@12.4.1",
+  "packageManager": "pnpm@12.11.2",
   "dependencies": {
     "react": "^19.3.0",
     "react-dom": "^19.3.0"
   },
   "devDependencies": {
-    "@rsbuild/core": "^2.2.6",
-    "@rsbuild/plugin-react": "^2.1.0"
+    "@rsbuild/core": "^2.2.13",
+    "@rsbuild/plugin-react": "^2.1.1"
   }
 }
